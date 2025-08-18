@@ -51,16 +51,10 @@ Hvis du hellere vil prøve kræfter med github kommandoer (som typisk bruges meg
     ```
 
 2. Initialiser et nyt Git repository:
-   Transformere den aktuelle mappe til et Git repository
+   
    ```
     git init
     ```
-
-    Transformerer en mappe i den aktuelle sti til et Gcreatecrrcccit repository
-    ```
-    git init <directory>
-    ```
-
 
 
 ## 4 - Tilføj filer til Git
