@@ -14,7 +14,7 @@ Før du starter, skal du have følgende på plads:
 
 Hvis du ikke er komfortable med brugen af kommandoer og arbejde i terminal, så kan github appen være et godt alternativ. Du kan download den her: [Download Github Desktop her](https://github.com/apps/desktop)
 
-Hvis du heller vil prøve kræfter med github kommandoer (som typisk bruges meget mere i virksomheder) så er der her en guide. 
+Hvis du hellere vil prøve kræfter med github kommandoer (som typisk bruges meget mere i virksomheder) så er der her en guide. 
 
 <br></br>
 
