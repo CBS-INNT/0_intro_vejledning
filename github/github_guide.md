@@ -18,6 +18,12 @@ Hvis du hellere vil prøve kræfter med github kommandoer (som typisk bruges meg
 
 <br></br>
 
+# Clone til repository
+
+
+
+
+
 # Github Push, Pull og Merge ¯\_(シ)_/¯
 
 ## 1 - Opret en GitHub Repository
