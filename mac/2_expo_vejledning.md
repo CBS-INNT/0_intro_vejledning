@@ -41,7 +41,7 @@ watchman --v
 
 ### Download Node
 
-Følg den officiele hjemmeside for at sikre den bedste installation: https://nodejs.org/en
+Følg den officielle hjemmeside for at sikre den bedste installation: https://nodejs.org/en
 
 ### Opdatere Node
 1. Clear npm cache: 
