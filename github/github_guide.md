@@ -22,7 +22,7 @@ Hvis du hellere vil prøve kræfter med github kommandoer (som typisk bruges meg
 For at åbne en repository skal du klikke på knappen "open with Github desktop"
 ![Screenshot](billeder/openWithGithubDesktop.png)
 
-Hvis ikke det virker følge denne video: https://www.google.com/search?q=how+to+clone+a+repository+from+github+to+github+desktop&oq=how+to+clone+a+repository+from+github+to+github+d&gs_lcrp=EgZjaHJvbWUqCQgBEAAYExiABDIGCAAQRRg5MgkIARAAGBMYgAQyCggCEAAYExgWGB4yCggDEAAYExgWGB4yCggEEAAYExgWGB4yCggFEAAYExgWGB4yBwgGEAAY7wUyCggHEAAYgAQYogQyBwgIEAAY7wUyCggJEAAYgAQYogTSAQkxNjc2MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:3328ab03,vid:PoZNIbs_wx8,st:0  
+Hvis ikke det virker følg denne video: https://www.google.com/search?q=how+to+clone+a+repository+from+github+to+github+desktop&oq=how+to+clone+a+repository+from+github+to+github+d&gs_lcrp=EgZjaHJvbWUqCQgBEAAYExiABDIGCAAQRRg5MgkIARAAGBMYgAQyCggCEAAYExgWGB4yCggDEAAYExgWGB4yCggEEAAYExgWGB4yCggFEAAYExgWGB4yBwgGEAAY7wUyCggHEAAYgAQYogQyBwgIEAAY7wUyCggJEAAYgAQYogTSAQkxNjc2MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:3328ab03,vid:PoZNIbs_wx8,st:0  
 
 # Github Push, Pull og Merge ¯\_(シ)_/¯
 
