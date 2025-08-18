@@ -54,9 +54,12 @@ npm cache clean --force
 npm install -g n
 ```
 
-6. For at opdatere Node til den sidste version, kør: `n latest``
+6. For at opdatere Node til den sidste version, kør:
+```
+n latest
+```
 
-7. Tjek nu: `node -v` & `npm -v`
+8. Tjek nu: `node -v` & `npm -v`
 
 
 ## Expo
