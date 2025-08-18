@@ -86,16 +86,15 @@ Hvis du hellere vil prøve kræfter med github kommandoer (som typisk bruges meg
 
 1. Gå til [GitHub](https://github.com) og opret et nyt repository. Kopier URL'en til dit GitHub repository.
 
-2. Tilføj GitHub som remote repository:
+2. Tilføj GitHub som remote repository (Husk at tilføj en ny URL):
     ```
     git remote add origin https://github.com/dit-brugernavn/din-repo.git
     ```
-
-3. Bekræft at remote blev tilføjet:
+   
+4. Bekræft at remote blev tilføjet:
     ```
     git remote -v
     ```
-
 
 ## 7 - Push projektet til GitHub
 
