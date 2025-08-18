@@ -37,7 +37,7 @@ watchman --v
 
 1. Tjek om det er installeret ved at skrive følgende: `node -v`, Hvis den giver et version nummer som `18.17.1` eller højere så er du good to go.
 
-2. Hvis du alligevel ønsker at opdatere til den nyeste version, læs videre på næste afsnit.
+2. Hvis du alligevel ønsker at opdatere til den nyeste version, læs videre i næste afsnit.
 
 ### Download Node
 
