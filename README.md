@@ -8,4 +8,4 @@
 
 Mac: https://github.com/CBS-INNT/0_intro_vejledning/tree/fd2e912dd4039d9feae2f1402c5385ec01188190/mac
 
-Windows: https://github.com/Innovationg-og-ny-teknologi-2021/1_intro_vejledning/tree/main/windows
+Windows: https://github.com/CBS-INNT/0_intro_vejledning/tree/fd2e912dd4039d9feae2f1402c5385ec01188190/windows
