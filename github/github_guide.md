@@ -43,14 +43,18 @@ Hvis du hellere vil prøve kræfter med github kommandoer (som typisk bruges meg
 ## 3 - Opret Git Repository
 
 1. Naviger til den mappe, hvor dit projekt ligger, eller opret en ny mappe:
-    ```
+
+   Naviger til mappen
+   ```
     cd path/to/your/project
     ```
+
+   Opret mappe:
     ```
     mkdir folder-name
     ```
 
-2. Initialiser et nyt Git repository:
+1. Initialiser et nyt Git repository:
    
    ```
     git init
