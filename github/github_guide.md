@@ -1,4 +1,4 @@
-# Git & GitHub Guide: Brug af Terminalen └[∵]┌└[ ∵ ]┘┐[∵]┘
+# Git & GitHub Guide: Brug af Terminalen └[ ∵ ]┘
 
 
 Denne guide hjælper dig med at komme i gang med Git og GitHub direkte fra din terminal. Du lærer, hvordan du initialiserer et Git-repository, laver commits, og uploader dit projekt til GitHub.
@@ -45,6 +45,9 @@ Hvis du hellere vil prøve kræfter med github kommandoer (som typisk bruges meg
 1. Naviger til den mappe, hvor dit projekt ligger, eller opret en ny mappe:
     ```
     cd path/to/your/project
+    ```
+    ```
+    mkdir folder-name
     ```
 
 2. Initialiser et nyt Git repository:
