@@ -8,9 +8,6 @@
 - Du skal installerer den fra din Kommandoprompt (terminal)
 - Når installationen er færdig, skal du hente expo appen fra din AppStore.
  
-  ![expo](billeder/expoIcon.png)
-
-
 #### Nu er du klar til at lave dit første projekt! 
 - Følg guiden der findes på følgende link: https://docs.expo.dev/get-started/create-a-project/
 
