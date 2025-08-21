@@ -4,7 +4,7 @@ I må gerne bruge andre editorer som webstorm eller atom, men dem kan vi desvær
 
 **Opsætning af VS Code** 
 1. Download VS code på dette link: https://code.visualstudio.com/Download
-   1. Vælg din type af mac - Intel er primært macs ældre end 2020, mens Apple Silicon er macs efter 2020
+   1. Vælg windows
 
 
 
