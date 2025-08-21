@@ -1,7 +1,7 @@
 # Git & GitHub Guide: Brug af Terminalen └[ ∵ ]┘
 
 
-Denne guide hjælper dig med at komme i gang med Git og GitHub direkte fra din terminal. Du lærer, hvordan du initialiserer et Git-repository, laver commits, og uploader dit projekt til GitHub.
+Denne guide hjælper dig med at komme i gang med Git og GitHub direkte fra din terminal. Du lærer at oprette et Git-repository, lave commits og uploade dit projekt til GitHub.
 
 ## Forudsætninger
 
@@ -18,15 +18,15 @@ Hvis du hellere vil prøve kræfter med github kommandoer (som typisk bruges meg
 
 <br></br>
 
-# Clone til repository
-For at åbne en repository skal du klikke på knappen "open with Github desktop"
+# Clone et repository
+For at åbne en repository kan du klikke på knappen "open with Github desktop"
 ![Screenshot](billeder/openWithGithubDesktop.png)
 
 Hvis ikke det virker følg denne video: https://www.google.com/search?q=how+to+clone+a+repository+from+github+to+github+desktop&oq=how+to+clone+a+repository+from+github+to+github+d&gs_lcrp=EgZjaHJvbWUqCQgBEAAYExiABDIGCAAQRRg5MgkIARAAGBMYgAQyCggCEAAYExgWGB4yCggDEAAYExgWGB4yCggEEAAYExgWGB4yCggFEAAYExgWGB4yBwgGEAAY7wUyCggHEAAYgAQYogQyBwgIEAAY7wUyCggJEAAYgAQYogTSAQkxNjc2MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:3328ab03,vid:PoZNIbs_wx8,st:0  
 
 # Github Push, Pull og Merge ¯\_(シ)_/¯
 
-## 1 - Opret en GitHub Repository
+## 1 - Opret et repository på GitHub 
 
 1. Gå til [GitHub](https://github.com) og log ind.
 2. Klik på "New" for at oprette et nyt repository.
@@ -46,18 +46,18 @@ Hvis ikke det virker følg denne video: https://www.google.com/search?q=how+to+c
 
 
 
-## 3 - Opret Git Repository
+## 3 - Initialiser et Git Repository
 
 1. Naviger til den mappe, hvor dit projekt ligger, eller opret en ny mappe:
 
    Naviger til mappen
    ```
-    cd path/to/your/project
+    cd path/to/your/project #navigér til din projektmappe
     ```
 
    Opret mappe:
     ```
-    mkdir folder-name
+    mkdir folder-name && cd ny-mappe "opret mappe og naviger til mappen
     ```
 
 1. Initialiser et nyt Git repository:
@@ -71,12 +71,11 @@ Hvis ikke det virker følg denne video: https://www.google.com/search?q=how+to+c
 
 1. Tilføj de filer, du ønsker at spore:
     ```
-    git add .
+    git add . #alle filer
     ```
 
-   `.` betyder "alle filer". Hvis du kun vil tilføje en specifik fil, brug filnavnet:
     ```
-    git add filnavn.txt
+    git add filnavn.txt #specifik fil
     ```
 
 
@@ -104,7 +103,7 @@ Hvis ikke det virker følg denne video: https://www.google.com/search?q=how+to+c
 
 ## 7 - Push projektet til GitHub
 
-1. Push dine ændringer til GitHub:
+1. Første gang du Pusher dine ændringer til GitHub skal du bruge:
     ```
     git push -u origin main
     ```
@@ -114,7 +113,7 @@ Hvis ikke det virker følg denne video: https://www.google.com/search?q=how+to+c
     git push -u origin master
     ```
 
-   Du kan typisk også bare bruge:
+   Efterfølgende kan du bruge:
    ```
     git push
    ``` 
@@ -126,13 +125,13 @@ Hvis ikke det virker følg denne video: https://www.google.com/search?q=how+to+c
     git pull origin main
     ```
 
-    eller bare
+    eller
     ```
     git pull 
     ```
 
 
-## 9 - Tilføj `.gitignore`-fil
+## 9 - Opret en `.gitignore`-fil
 
 1. Opret en `.gitignore`-fil i roden af dit projekt og tilføj filer eller mapper, du vil ignorere. Eksempel på indhold:
     ```
@@ -158,7 +157,7 @@ Branches hjælper jer holde styr på forskellige versioner af jeres produkt. Ved
 
 2. Skift mellem branches:
     ```
-    git checkout main
+    git checkout branch-navn
     ```
 
 ## Merge Branches
@@ -168,7 +167,7 @@ Branches hjælper jer holde styr på forskellige versioner af jeres produkt. Ved
     git checkout main
     ```
 
-2. Merge ændringerne:
+2. Merge ændringerne ind i main:
     ```
     git merge ny-branch-navn
     ```
@@ -178,12 +177,12 @@ Branches hjælper jer holde styr på forskellige versioner af jeres produkt. Ved
 
 Hvis du arbejder på noget, men ikke er klar til at committe, kan du midlertidigt gemme dine ændringer med `git stash`:
 
-1. Stash dine ændringer:
+1. Gem dine ændringer:
     ```
     git stash
     ```
 
-2. Se alle dine stashes:
+2. Se en liste af alle dine stashes:
     ```
     git stash list
     ```
