@@ -18,7 +18,7 @@
 1. Navigér ind til den mappe, som projektet skal placeres i via terminalen (`cd` & `cd..`)
 
 2. Skriv nu `npx create-expo-app` og vælg 'blank'
-3. Find nu dit projekt i Webstorm, og aktivér projektet ved at skrive
+3. Find nu dit projekt i VS code, og aktivér projektet ved at skrive
    `expo start` i terminalen
 
 4. Dernæst åbnes terminalen med expo interfacet. Check først at din computer og telefon kører på det samme net. Scanning af QR-koden foregår ved brug af expo appen.
@@ -26,7 +26,7 @@
    ![](billeder/screenshot5.png)
 
 5. Resultatet skulle være at du skal se denne tekst `Open up App.js to start working on your app!`
-6. Prøv at ændre i webstorm filen app.js og se teksten ændre sig
+6. Prøv at ændre i filen app.js og se teksten ændre sig
 
 
 <a href="https://github.com/CBS-INNT/0_intro_vejledning/blob/main/github/github-copilot_vejledning.md" target="_blank">GÅ TIL GITHUB VEJLEDNING</a>
