@@ -29,5 +29,4 @@
 6. Prøv at ændre i webstorm filen app.js og se teksten ændre sig
 
 
-<a href="https://github.com/Innovationg-og-ny-teknologi-2021/0_intro_vejledning/blob/main/windows/3_github_vejledning.md
-" target="_blank">GÅ TIL GITHUB VEJLEDNING</a>
+<a href="https://github.com/CBS-INNT/0_intro_vejledning/blob/main/github/github-copilot_vejledning.md" target="_blank">GÅ TIL GITHUB VEJLEDNING</a>
