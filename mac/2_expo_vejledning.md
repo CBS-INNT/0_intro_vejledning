@@ -1,8 +1,8 @@
 # Opsætning af expo - React native Mobil apps
 
-1. Start med at åbn din terminal. 
+1. Start med at åbne din terminal
 
-2. **Hvis du får adgangs problemer med at kører kommandoer i denne guide, skriv `sudo` før hvert kommando for at kører det som administrator**
+2. **Hvis du får adgangsproblemer med at køre kommandoer i denne guide, skriv `sudo` før hvert kommando for at køre det som administrator**
 
 3. Hvis du oplever fejl med kommandoer, læs først hvad terminalen siger og prøv selv at rette det, hvis det ikke lykkes, tilkald hjælp
 
@@ -15,16 +15,17 @@ Hvis terminalen svarer med et versions nr. gå videre til "Homebrew installeret"
 
 2. Kopier install curl i din terminal
 
-3. Tjek om det er installeret korrekte ved at skrive følgende: `brew -v`
+3. Tjek om det er installeret korrekt ved at skrive følgende: `brew -v`
 
 ### Homebrew Installeret
 1. I terminalen, skriv
    ```
    brew update && brew upgrade
    ```
+PS: brew upgrade kan godt tage rimelig lang tid at køre
 
 ## Watchman
-Expo kræver en pakke kaldt Watchman for at kører, derfor skal du installere den ved at kopiere følgende i terminalen:
+Expo kræver en pakke kaldet Watchman for at køre. Derfor skal du installere den ved at kopiere følgende i terminalen:
 ```
 brew install watchman
 ```
@@ -72,9 +73,9 @@ Før du går videre, tjek om nedenstående er opfyldt:
 
 2. Download Expo Go på din mobil: https://expo.dev/go
 
-3. Vi anbefaler at i laver en mappe "INNT_Exercises", hvor i kan gemme jeres opgaver.
-
 ### Start dit første expo projekt!
+Vi anbefaler, at I laver en mappe "INNT_Exercises", hvor i kan gemme jeres opgaver.
+
 1. Åbn Visual Studio Code (VS Code) og åbn jeres mappe samt en terminal i VS Code.
 
 2. I terminalen kør:
@@ -92,6 +93,6 @@ npx create-expo-app --template
 
 8. Når du er kommet ind til mappen, kør `npx expo start` for at initiere appen. Hvis du oplever problemer med dette step, kør først `npm install` og derefter `npx expo start --tunnel`
 
-9. Scan QR koden på skærmen og se appen på din telefon😲!
+9. Scan QR koden på skærmen og se appen på din telefon! 😲
 
 
