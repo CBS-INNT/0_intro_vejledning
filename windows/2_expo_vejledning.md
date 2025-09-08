@@ -16,7 +16,7 @@
 
 2. Skriv nu `npx create-expo-app --template blank`
 3. Find nu dit projekt i VS code, og aktivér projektet ved at skrive
-   `expo start` i terminalen
+   `npx expo start` i terminalen
 
 4. Dernæst åbnes terminalen med expo interfacet. Check først at din computer og telefon kører på det samme net. Scanning af QR-koden foregår ved brug af expo appen.
 # OBS!!! Hvis cbs-nettet / eduroam ikke virker, kan det være nødvendigt at gå på mobil-hotspot. 
