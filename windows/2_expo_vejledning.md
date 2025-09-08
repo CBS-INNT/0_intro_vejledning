@@ -4,8 +4,9 @@
 - Hent den anbefalede version(LTS) af Node ved at trykke på følgende link: https://nodejs.org/en/
 - Du kan tjekke om du allerede har node ved at skrive `node -v` i terminalen. Hvis terminalen returnerer med en versionsbeskrivelse, som ikke er alt for gammel, er alt i orden og du kan hoppe til næste punkt i denne vejledning. 
 
-#### Anvend den officielle guide til at installere expo CLI. Guiden findes på følgende link: https://docs.expo.dev/get-started/set-up-your-environment/ 
-- Du skal hente expo appen fra din AppStore.
+#### Installer expo CLI  
+- Installer expo CLI `npm install -g expo-cli`
+- Hent expo appen fra din AppStore på følgende link: https://docs.expo.dev/get-started/set-up-your-environment/
  
 #### Kør dit først expo projekt!
 1. Navigér ind til den mappe, som projektet skal placeres i via terminalen (`cd` & `cd..`)
