@@ -71,7 +71,7 @@ Før du går videre, tjek om nedenstående er opfyldt:
 
 1. Gå til: https://expo.dev/ og lave en konto ved at trykke på "Sign Up"
 
-2. Download Expo Go på din mobil: https://expo.dev/go
+2. Download Expo Go på din mobil: https://docs.expo.dev/get-started/set-up-your-environment/?platform=ios&device=physical
 
 ### Start dit første expo projekt!
 Vi anbefaler, at I laver en mappe "INNT_Exercises", hvor i kan gemme jeres opgaver.
