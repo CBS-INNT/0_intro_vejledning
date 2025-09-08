@@ -14,7 +14,7 @@
 #### Kør dit først expo projekt!
 1. Navigér ind til den mappe, som projektet skal placeres i via terminalen (`cd` & `cd..`)
 
-2. Skriv nu `npx create-expo-app` og vælg 'blank'
+2. Skriv nu `npx create-expo-app --template blank`
 3. Find nu dit projekt i VS code, og aktivér projektet ved at skrive
    `expo start` i terminalen
 
