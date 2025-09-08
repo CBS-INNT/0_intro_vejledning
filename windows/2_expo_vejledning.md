@@ -20,10 +20,6 @@
 
 4. Dernæst åbnes terminalen med expo interfacet. Check først at din computer og telefon kører på det samme net. Scanning af QR-koden foregår ved brug af expo appen.
 # OBS!!! Hvis cbs-nettet / eduroam ikke virker, kan det være nødvendigt at gå på mobil-hotspot. 
-   ![](billeder/screenshot5.png)
-
+   
 5. Resultatet skulle være at du skal se denne tekst `Open up App.js to start working on your app!`
 6. Prøv at ændre i filen app.js og se teksten ændre sig
-
-
-<a href="https://github.com/CBS-INNT/0_intro_vejledning/blob/main/github/github-copilot_vejledning.md" target="_blank">GÅ TIL GITHUB VEJLEDNING</a>
