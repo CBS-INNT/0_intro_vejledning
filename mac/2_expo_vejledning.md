@@ -69,7 +69,7 @@ Før du går videre, tjek om nedenstående er opfyldt:
  - [ ] Watchman er installeret;
  - [ ] Node med version > 18.17.1.
 
-1. Gå til: https://expo.dev/ og lave en konto ved at trykke på "Sign Up"
+1. Gå til: https://expo.dev/ og lav en konto ved at trykke på "Sign Up"
 
 2. Download Expo Go på din mobil: https://docs.expo.dev/get-started/set-up-your-environment/?platform=ios&device=physical
 
