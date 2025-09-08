@@ -5,7 +5,6 @@
 - Du kan tjekke om du allerede har node ved at skrive `node -v` i terminalen. Hvis terminalen returnerer med en versionsbeskrivelse, som ikke er alt for gammel, er alt i orden og du kan hoppe til næste punkt i denne vejledning. 
 
 #### Installer expo CLI  
-- Installer expo CLI `npm install -g expo-cli`
 - Hent expo appen fra din AppStore på følgende link: https://docs.expo.dev/get-started/set-up-your-environment/
  
 #### Kør dit først expo projekt!
