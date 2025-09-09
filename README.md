@@ -6,6 +6,4 @@
 
 **I mappen ovenover er opsætningen til hhv windows og mac!**
 
-Mac: https://github.com/CBS-INNT/0_intro_vejledning/tree/fd2e912dd4039d9feae2f1402c5385ec01188190/mac
 
-Windows: https://github.com/CBS-INNT/0_intro_vejledning/tree/fd2e912dd4039d9feae2f1402c5385ec01188190/windows
