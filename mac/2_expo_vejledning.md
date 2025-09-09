@@ -13,7 +13,7 @@ Hvis terminalen svarer med et versions nr. gå videre til "Homebrew installeret"
 ### Installere Homebrew
 1. Gå til: [https://brew.sh/](https://brew.sh/)
 
-2. Kopier install curl i din terminal
+2. Kopier install curl i din terminal. Efter den har installeret så kopir det der står i terminalen under `Nest steps`
 
 3. Tjek om det er installeret korrekt ved at skrive følgende: `brew -v`
 
