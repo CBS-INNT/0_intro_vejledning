@@ -9,7 +9,7 @@
 
 # Tips hvis du har problemer i terminalen
 - Hvis terminalen ikke spørger hvilken template du skal bruge skal du skrive: `npx create-expo-app --template blank navn_på_mappen`
-- Hvis Expo er langsom kør: `npx expo start --clear --tunnel`
+- Hvis Expo er langsom kør: `npx expo start --tunnel`
 - Hvis der er error i terminalen så prøv:
 ```
 npx expo install @react-navigation/native
